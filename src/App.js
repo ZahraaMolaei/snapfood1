@@ -12,6 +12,7 @@ export default function App() { //JSX
   // IDE vs
 
   // code editor 
+  // test
 
   let foods = [
     {
